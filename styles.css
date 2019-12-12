@@ -30,13 +30,13 @@ header {
     margin-top: 20px;
 }
 
-li {
+.navright li {
     display: inline;
     text-align: center;
     padding: 14px 16px;
 }
 
-li a {
+.navright li a {
     text-align: right;
     text-decoration: none;
 }
