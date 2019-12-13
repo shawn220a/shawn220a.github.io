@@ -61,6 +61,8 @@ hr {
   background-color: white;
 }
 
+/* About Me Page */
+
 .aboutme {
   font-family: Arial, Helvetica, sans-serif;
   max-width: 960px;
@@ -86,6 +88,8 @@ hr {
   margin: 10px;
   font-size: 18px;
 }
+
+/* Portfolio Page */
 
 .portfolio {
   font-family: Arial, Helvetica, sans-serif;
@@ -124,6 +128,22 @@ hr {
   margin: 20px;
   color: white;
 }
+
+/* Contact Page */
+
+.contact {
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 960px;
+  margin: auto;
+}
+
+.contact h1 {
+  font-size: 28px;
+  color: #4aaaa5;
+  padding: 10px;
+}
+
+/* Footer */
 
 .footer {
   position: fixed;
