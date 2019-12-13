@@ -28,6 +28,7 @@ header {
     list-style-type: none;
     float: right;
     margin-top: 20px;
+    font-size: 18px;
 }
 
 .navright li {
@@ -43,6 +44,7 @@ header {
 
 hr {
     margin: auto;
+    margin-bottom: 20px;
 }
 
 .container {
@@ -71,10 +73,12 @@ hr {
 .aboutme h1 {
     font-size: 28px;
     color: #4aaaa5;
+    padding: 10px;
 }
 
 .aboutme p {
     margin: 10px;
+    font-size: 18px;
 }
 
 .portfolio {
