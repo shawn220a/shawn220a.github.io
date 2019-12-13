@@ -1,3 +1,7 @@
+body {
+    background-image: url(/imgs/vintage-wallpaper.png);
+}
+
 .clearfix::after {
     content: "";
     display: block;
@@ -7,6 +11,7 @@
 header {
     font-family: Georgia, 'Times New Roman', Times, serif;
     max-width: 100%;
+    background-color: white;
 }
 
 .title {
@@ -53,6 +58,7 @@ hr {
     border: 2px solid black;
     max-width: 960px;
     margin: auto;
+    background-color: white;
 }
 
 .aboutme {
